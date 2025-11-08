@@ -1,0 +1,19 @@
+body {
+    background-color: darkcyan;
+    display: flex;
+
+}
+img {
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+    
+}
+body {
+    color: aliceblue;
+}
+li{
+    background-color: black;
+    align-items:center;
+    width: 90px;
+}
