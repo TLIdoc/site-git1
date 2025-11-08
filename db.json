@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name":"Margo",
+            "surname": "Voloshyna",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMMWd08C5AE2EXAyUKJ_5SLvDntWHayN0uA&s"
+            "balance": 111111
+        }
+    ]
+}
